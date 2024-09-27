@@ -1,0 +1,14 @@
+
+         table{
+            border:1px solid blue;
+            border-collapse:collapse;
+         }
+         td{
+            border:1px solid blue
+         }
+         th{
+            border:1px solid blue
+         }
+      body{
+        background-color: aquamarine;
+      }
